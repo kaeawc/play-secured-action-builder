@@ -1,4 +1,7 @@
 # Home page
-GET     /                           controllers.Application.index
+GET     /normal                           controllers.Application.normal
+GET     /secured                           controllers.Application.secured
+GET     /async                           controllers.Application.async
+GET     /secured/async                           controllers.Application.securedAsync
 
 GET     /*file               controllers.Assets.at(path="/public", file)
