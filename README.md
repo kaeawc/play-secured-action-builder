@@ -4,5 +4,3 @@ Using Play Scala's Action Composition you can easily create a Secured action tha
 
 Documentation on how to do this can be found here:
 http://www.playframework.com/documentation/2.2.x/ScalaActionsComposition
-
-You can find a live demo of the app at http://play-secured-action-builder.herokuapp.com/
