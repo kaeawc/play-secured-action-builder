@@ -1,4 +1,4 @@
-name := "secured-async"
+name := "play-secured-action-builder"
 
 version := "1.0-SNAPSHOT"
 
